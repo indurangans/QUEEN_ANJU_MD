@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "18765961780",
+  "BOT_NUMBER": "16582148118",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
